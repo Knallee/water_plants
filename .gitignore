@@ -1,0 +1,29 @@
+### Atmel Studio ###
+
+.vs/
+
+[Dd]ebug/
+[Rr]elease/
+
+*.o
+*.d
+*.elf
+*.hex
+*.map
+*.sr
+
+*.atsln
+*.cproj
+*.componentinfo.xml
+
+### Altium Designer ###
+History/
+__Previews/
+Project Logs for pcb_heater/
+Project Logs for mobile_unit_controller/
+Project Outputs for pcb_heater/
+Project Outputs for mobile_unit_controller/
+!*.SchDoc
+!*.PcbDoc
+!*.SchLib
+!*.PcbLib
